@@ -1,9 +1,19 @@
 # 🧹 Sales Data Cleaning & Reporting System (Excel)
 
+## 📥 Downloads
+
+| File | Description |
+|---|---|
+| [📈 Sales Data Cleaning & Reporting System.xlsx](Sales%20Data%20Cleaning%20%26%20Reporting%20System.xlsx) | Interactive Excel dashboard |
+
+## 🖼️ Screenshots
+
+![Dashboard Preview](dashboard_screenshot.png)
+
+---
+
 An **Excel** dashboard that cleans messy raw sales data and generates automated summary reports — with
 **real pivot tables, pivot charts, slicers, and a Calc sheet** for data-quality + KPI calculations.
-
-Workbook: [`dashboard/Sales Data Cleaning & Reporting System.xlsx`](dashboard/Sales%20Data%20Cleaning%20&%20Reporting%20System.xlsx)
 
 ---
 
